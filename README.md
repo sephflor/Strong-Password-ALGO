@@ -1,1 +1,1 @@
-# Strong-Password-ALGO
+# Strong-Password-ALGO.This code calculates the minimum number of characters needed to make a password strong by checking for missing character types—digit, lowercase, uppercase, and special character—and ensuring the password is at least 6 characters long. It returns the greater of the number of missing types or the number of characters needed to reach length 6.
